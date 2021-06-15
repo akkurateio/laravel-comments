@@ -1,12 +1,12 @@
 {
-    "name": "beyondcode/laravel-comments",
+    "name": "akkurateio/laravel-comments",
     "description": "Add comments to your Laravel application",
     "keywords": [
-        "beyondcode",
+        "akkurateio",
         "comments",
         "laravel-comments"
     ],
-    "homepage": "https://github.com/beyondcode/laravel-comments",
+    "homepage": "https://github.com/akkurateio/laravel-comments",
     "license": "MIT",
     "authors": [
         {
@@ -17,7 +17,7 @@
         }
     ],
     "require": {
-        "php": "^7.2.5",
+        "php": "^7.2.5|^8.0",
         "illuminate/support": "~5.6.0|~5.7.0|~5.8.0|^6.0|^7.0|^8.0"
     },
     "require-dev": {
